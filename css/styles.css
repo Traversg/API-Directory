@@ -1,7 +1,7 @@
 body {
     position: relative;
     background-color: #fcfcfc;
-    margin: 0;
+    font-family: 'Oswald'
 }
 header {
     margin-left: 20px;
@@ -67,7 +67,7 @@ header h1 {
 /* Modal Window */
 
 .overlay {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
